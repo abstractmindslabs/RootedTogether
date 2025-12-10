@@ -1,0 +1,39 @@
+{
+  "fill" : {
+    "solid" : "display-p3:0.46507,0.62727,0.92092,1.00000"
+  },
+  "groups" : [
+    {
+      "hidden" : false,
+      "layers" : [
+        {
+          "glass" : false,
+          "image-name" : "Screenshot 2025-10-30 at 9.29.12 AM.png",
+          "name" : "Screenshot 2025-10-30 at 9.29.12 AM"
+        }
+      ],
+      "name" : "Group",
+      "position" : {
+        "scale" : 0.9,
+        "translation-in-points" : [
+          0,
+          0
+        ]
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
